@@ -2560,7 +2560,7 @@
       }
     },
     "microgateway-config": {
-      "version": "github:PrapunjT/microgateway-config#e6b93eeacacca0a73b91e53b049d375c4168787a",
+      "version": "github:PrapunjT/microgateway-config#bfc7866a859c5c715427741d345ee9f7f555b75b",
       "from": "github:PrapunjT/microgateway-config#constants",
       "requires": {
         "apigeetool": "^0.15.1",
